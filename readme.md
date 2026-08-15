@@ -1,5 +1,6 @@
 # 🥗 NutriPal - LLM-Powered AI Nutrition Coach
 
+Deployed link: compute_ml_task_4 ∙ main ∙ app.py
 A friendly, supportive CLI and Web-based AI Nutrition Coach built using Python and the **Google GenAI SDK (`gemini-2.5-flash`)**. NutriPal helps users build sustainable eating habits, balance their diets, and stay motivated on their wellness journey.
 
 ---
